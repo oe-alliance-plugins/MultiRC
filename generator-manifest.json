@@ -1,0 +1,19 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "Use multiple Dreamboxes with different RCs",
+  "description_recipe": "Use multiple Dreamboxes with different RCs",
+  "history_source_dir": "multirc",
+  "internal_package_name": "enigma2-plugin-extensions-multirc",
+  "module_dir_name": "MultiRC",
+  "output_subdir": "multirc",
+  "package_name": "enigma2-plugin-extensions-multirc",
+  "plugin_src_rel": "multirc",
+  "python_package": "MultiRC",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "MultiRC",
+  "rrecommends": "",
+  "rreplaces": "",
+  "selected_from_plugin_list": true
+}
